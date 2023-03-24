@@ -30,3 +30,9 @@
 
 ## 9. Paperwallet
 - a [paperwallet](https://github.com/lexdumitrache/BlockFinance_STARTHACK23/blob/main/paperwallet_gift.pdf) was created as a gift for the newborn baby of a fictional employee
+
+## 10. Script
+- wrote a script that looks for Bitcoin message in every other Bitcoin block
+
+## 11. Account statements
+- provided accounts statements with [transaction lookups](https://github.com/lexdumitrache/BlockFinance_STARTHACK23/blob/main/txLookup.pdf) and CSV exports
