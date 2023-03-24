@@ -3,7 +3,7 @@
 ## 1. Wallet and accounts 
 - A HD bip85 wallet was set up on our node using Electrum (https://electrum.org)
 - 8 different accounts were generated using different bip39 seeds
-- all seed phrases where generated using ([link](https://getcoinplate.com/bip39-seed-phrase-mnemonics-generator-offline-online-tool/))
+- all seed phrases where generated using ([getcoinpalte](https://getcoinplate.com/bip39-seed-phrase-mnemonics-generator-offline-online-tool/))
 
 ## 2. Vault 
 - A vault was set up using Airgap (https://github.com/airgap-it/airgap-vault)
