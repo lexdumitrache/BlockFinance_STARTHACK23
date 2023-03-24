@@ -1,7 +1,7 @@
 # BlockFinance_STARTHACK23
 
 ## 1. Wallet and accounts 
-- A HD bip85 wallet was set up onour node using Electrum (https://electrum.org)
+- A HD bip85 wallet was set up on our node using Electrum (https://electrum.org)
 - 8 different accounts were generated using different bip39 seeds
 - all seed phrases where generated using ([link](https://getcoinplate.com/bip39-seed-phrase-mnemonics-generator-offline-online-tool/))
 
@@ -24,6 +24,8 @@ A simple one page ecommerce was created usign BTCpay "app" functionality https:/
 <img width="772" alt="Schermata 2023-03-24 alle 04 34 09" src="https://user-images.githubusercontent.com/128647197/227454632-57d9c3f9-3493-465a-a2f9-cd0c3e0898a1.png">
 
 ## 7. Invoices 
+invoice.py exploit REST api of BTCpayment to POST invoices, invoices are then collected on a sql databese hsoted locally
 
 ## 8.Hidden Messages
-
+- secretmessage contains the instructions to collect the message from the genesis block, bitcoincli was used
+- getnode.py check for new block on the chain every 60 seconds check and print the ifnormation contained in new blocks. 
