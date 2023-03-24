@@ -9,7 +9,7 @@
 - A vault was set up using Airgap (https://github.com/airgap-it/airgap-vault)
 
 ## 3. Node setup 
-A full was set up on local server
+- A full was set up on local server
 **(carichiamo il file di con conf???)**
 
   
@@ -24,7 +24,7 @@ A simple one page ecommerce was created usign BTCpay "app" functionality https:/
 <img width="772" alt="Schermata 2023-03-24 alle 04 34 09" src="https://user-images.githubusercontent.com/128647197/227454632-57d9c3f9-3493-465a-a2f9-cd0c3e0898a1.png">
 
 ## 7. Invoices 
-invoice.py exploit REST api of BTCpayment to POST invoices, invoices are then collected on a sql databese hsoted locally
+- invoice.py exploit REST api of BTCpayment to POST invoices, invoices are then collected on a sql databese hsoted locally
 
 ## 8.Hidden Messages
 - secretmessage contains the instructions to collect the message from the genesis block, bitcoincli was used
