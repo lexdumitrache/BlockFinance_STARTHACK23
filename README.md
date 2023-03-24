@@ -12,7 +12,6 @@
 A full was set up on local server
 **(carichiamo il file di con conf???)**
 
-## 5.Proof of message
   
 ## 5. Payment Server
 - BTCpay was deployed on cloud using (https://www.lunanode.com)
