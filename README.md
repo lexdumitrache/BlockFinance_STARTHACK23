@@ -28,4 +28,4 @@ invoice.py exploit REST api of BTCpayment to POST invoices, invoices are then co
 
 ## 8.Hidden Messages
 - secretmessage contains the instructions to collect the message from the genesis block, bitcoincli was used
-- 
+- getnode.py check for new block on the chain every 60 seconds check and print the ifnormation contained in new blocks. 
