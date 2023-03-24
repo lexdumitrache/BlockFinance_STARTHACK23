@@ -1,0 +1,16 @@
+Transaction Id,158c1cc83fb545e6c93f51a89abb223f5505d3a940ca870d044a5c4926cb6824
+Block,0000000000000000000640b6b28e8dc2b52a1fc5c86e4a5b8b0b893bf8b54e57
+Block height,782149
+Block date,Thu Mar 23 2023 15:58:29 GMT+0100 (Ora standard dell’Europa centrale)
+Confirmed,Yes
+Amount (BTC),0.029953
+Value,Fiat,Date,At tx
+-,USD,-,Yes
+Fee (BTC),0.000047000000000000004
+Recipients
+Address,Blacklisted,Value (BTC),Coinbase
+bc1qe0w4c2wsk90654asqk8rhfncj8uskqce03jjee,No,0.014253,-
+3QZG7nBbNRYoeMH7seaweohu9npBWB6TDD,No,0.0157,-
+Senders
+Address,Blacklisted,Value (BTC),Coinbase
+bc1q2fkypggzapfngv5vd328x3rgcg3awk4hmlmjnt,No,0.030000000000000002,-
