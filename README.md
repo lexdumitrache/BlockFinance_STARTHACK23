@@ -27,5 +27,5 @@ A simple one page ecommerce was created usign BTCpay "app" functionality https:/
 - invoice.py exploit REST api of BTCpayment to POST invoices, invoices are then collected on a sql databese hsoted locally
 
 ## 8.Hidden Messages
-- secretmessage contains the instructions to collect the message from the genesis block, bitcoincli was used
+- [secretmessage](https://github.com/lexdumitrache/BlockFinance_STARTHACK23/blob/main/secretmessage.txt) contains the instructions to collect the message from the genesis block, bitcoincli was used
 - getnode.py check for new block on the chain every 60 seconds check and print the ifnormation contained in new blocks. 
