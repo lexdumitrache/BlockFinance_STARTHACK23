@@ -1,8 +1,8 @@
 # BlockFinance_STARTHACK23
 
 ## 1. Wallet and accounts 
-- A HD bip85 wallet was set up on our node using Electrum (https://electrum.org)
-- 8 different accounts were generated using different bip39 seeds
+- A HD bip85 wallet was set up on our node using [Electrum](https://electrum.org)
+- 8 different accounts for different purpouses (main, accounting, salaries, fundraising, investments, etc...) were generated using different bip39 seeds 
 - all seed phrases where generated using [getcoinplate](https://getcoinplate.com/bip39-seed-phrase-mnemonics-generator-offline-online-tool/)
 
 ## 2. Vault 
